@@ -1,4 +1,4 @@
-<img align="left" src="./images/CC_BY.png" alt="Left aligned icon"><br /><br />
+<img align="left" src="CC_BY.png" alt="Left aligned icon"><br /><br />
 Created by [Nathan Kelber](http://nkelber.com) for [JSTOR Labs](https://labs.jstor.org/) under [Creative Commons CC BY License](https://creativecommons.org/licenses/by/4.0/)<br />
 Adapted by [Neil Aitken](https://neil-aitken.com) for [Map & Data Library at the University of Toronto](https://mdl.library.utoronto.ca/) <br />
 For questions/comments/improvements, email neil.aitken@utoronto.ca.<br />
@@ -84,12 +84,12 @@ The statistical process of grouping together similar items. For example, topic a
 * Soft/Fuzzy Clusters (items may be in multiple groups)
 * Hierarchal Clusters (part of hierarchy)
 
-![visualization of cluster types](./images/clustering_types.png)
+![visualization of cluster types](clustering_types.png)
 
 ## Code Block (in Python)
 A snippet of code that begins with an indentation. A code block can be a single line or many lines long. Blocks can contain other blocks forming a hierarchal structure. In such a case, the second block is indented an additional degree. Any given block ends when the number of indentations in the current line is less than the number that started the block. 
 
-![Visualization of code block indentations](./images/code_block_indentation.png)
+![Visualization of code block indentations](code_block_indentation.png)
 
 ## Code Cell (in a Jupyter Notebook)
 A cell in a Jupyter notebook that is executable. They can be distinguished by the presence of a set of brackets and a colon to the left of the cell. [ ]: 
